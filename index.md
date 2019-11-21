@@ -16,8 +16,6 @@ Help spread the word via twitter ( @azuredatafest #azuredatafest2019), LinkedIn,
  
 If you have a question about the event, please contact us via email at <adfboston.team@outlook.com>
  
-**For event tickets please visit: <https://aka.ms/adfboston2019>**
-
 This event would not have been possible without the help from our local user group communities and event sponsors who have helped organize the event, provide speakers, volunteer for event day activities, and much more. 
 
 ### [List of Confirmed Sessions]({{ site.baseurl }}{% link sessionlist.md %})
