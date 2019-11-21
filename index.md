@@ -32,19 +32,21 @@ A big thank you for out participating sponsors in this year's Boston Azure DataF
 
 ![Logos of Sponsoring Organizations](./images/sponsors.jpg "List of Sponsors") 
 
-**[Attunity](www.attunity.com)** 
+**[CenturyOne](www.sentryone.com)**
 
-**[Cazena](www.cazena.com)** 
+**[Productive Edge](www.productiveedge.com)**
 
-**[Informatica](www.informatica.com)** 
+**[Okera](www.okera.com)**
 
-**[Infoworks](www.infoworks.io)** 
+**[DataStax](www.datastax.com)**
+
+**[Cloudera](www.cloudera.com)**
 
 **[Insight](https://www.insight.com/en_US/solve/digital-innovation.html)** 
 
-**[MongoDB](https://www.mongodb.com/)** 
+**[TimeExtender](www.timextender.com)**
 
-**[Snowflake](www.snowflake.com)**
+**[MongoDB](https://www.mongodb.com/)** 
 
 ---
 
