@@ -34,15 +34,15 @@ A big thank you for out participating sponsors in this year's Boston Azure DataF
 
 ![Logos of Sponsoring Organizations](./images/sponsors.jpg "List of Sponsors") 
 
-**[CenturyOne](www.sentryone.com)**
+**[CenturyOne](https://www.sentryone.com)**
 
-**[Productive Edge](www.productiveedge.com)**
+**[Productive Edge](https://www.productiveedge.com)**
 
-**[Okera](www.okera.com)**
+**[Okera](https://www.okera.com)**
 
-**[DataStax](www.datastax.com)**
+**[DataStax](https://www.datastax.com)**
 
-**[Cloudera](www.cloudera.com)**
+**[Cloudera](https://www.cloudera.com)**
 
 **[Insight](https://www.insight.com/en_US/solve/digital-innovation.html)** 
 
