@@ -46,7 +46,7 @@ A big thank you for out participating sponsors in this year's Boston Azure DataF
 
 **[Insight](https://www.insight.com/en_US/solve/digital-innovation.html)** 
 
-**[TimeExtender](www.timextender.com)**
+**[TimeExtender](https://www.timextender.com)**
 
 **[MongoDB](https://www.mongodb.com/)** 
 
