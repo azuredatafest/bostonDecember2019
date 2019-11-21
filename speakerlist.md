@@ -8,4 +8,4 @@ layout: default
 
 # List of speakers
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/81dyl2ks/view/speakerwall"></script>
+<script type="text/javascript" src="https://sessionize.com/api/v2/k9h9ww5t/view/SpeakerWall"></script>
