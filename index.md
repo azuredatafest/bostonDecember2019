@@ -65,7 +65,7 @@ Our community Azure and Data user groups have been instrumental in making this e
 | [North Boston Azure](https://www.meetup.com/North-Boston-Azure-Cloud-User-Group/) | Topics that are relevant to anyone using Azure | 5 Wayside Road, Burlington MA | 6:00 – 8:00pm last Tuesday of the month (except for December) |
 | [Boston Azure](http://bostonazure.org) | The scope is topics relevant to those interested in the Microsoft Azurecloud platform. Examples: developing solutions with Azure services, efficient operations, running Azure securely, managing costs, managing data, comparing database options, managing disaster recovery, comparing service options within Azure and to other clouds, etc. Some talks are for beginners, some talks are more advanced. | Usually at Microsoft NERD in Cambridge (Memorial Drive), but sometimes in other locations | Usually 6:00 – 8:30 for around-once-a-month meetings, sometimes other formats |
 | [Rhode Island SQL Server User Group](https://www.meetup.com/Rhode-Island-SQL-Server-Users-Group/) | Anything that has to do with the Microsoft data platform. | New England Technical Institute, 1408 Division Road, East Greenwich, RI, 02818 | First Wednesday of every month at 7 pm.  Check meetup for presentation details. |
-| [Boston Apache Spark User Group](https://www.meetup.com/Boston-Apache-Spark-User-Group/)
+| [Boston Apache Spark User Group](https://www.meetup.com/Boston-Apache-Spark-User-Group/) | Apache Spark User Group | Cambridge MA | Meet Once a Month
 
 
 
