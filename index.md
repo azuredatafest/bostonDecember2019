@@ -34,7 +34,7 @@ A big thank you for out participating sponsors in this year's Boston Azure DataF
 
 ![Logos of Sponsoring Organizations](./images/sponsors.jpg "List of Sponsors") 
 
-**[CenturyOne](https://www.sentryone.com)**
+**[SenturyOne](https://www.sentryone.com)**
 
 **[Productive Edge](https://www.productiveedge.com)**
 
