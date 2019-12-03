@@ -50,6 +50,8 @@ A big thank you for out participating sponsors in this year's Boston Azure DataF
 
 **[MongoDB](https://www.mongodb.com/)** 
 
+**[Qlik](https://www.qlik.com/us/)**
+
 ---
 
 # Supporting User Groups
